@@ -15,9 +15,9 @@ def sort_phones(ph
 
 phone_list = [
     "23-45-67",
-    "98-01-02", 
-    "12-34-56",  
-    "78-90-12"
+    "34-95-21", 
+    "50-32-66",  
+    "24-63-05"
 ]
 
 print(sort_phones(phone_list))
